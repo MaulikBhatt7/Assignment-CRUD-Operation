@@ -1,0 +1,87 @@
+.btn{
+    color:cornflowerblue;
+    /* background-color: yellow; */
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fac{
+    float: left;
+    margin: 50px;
+    border: 1px solid rgb(128, 0, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+    text-align: center;
+}
+ .font{
+    font-size: 20px;
+    color: blueviolet;
+
+}
+.font:hover{
+    cursor: pointer;
+}
+.button{
+    border-radius: 50%;
+    width: 90px;
+    height: 60px;
+    background-color: cyan;
+}
+.button2{
+    border-radius: 50%;
+    width: 150px;
+    height: 80px;
+    background-color: cyan;
+}
+.input{
+    width: 500px;
+    border: 3px solid rgba(68, 0, 255, 0.333);
+    border-radius: 10px;
+}
+.collapse{
+    float: right;
+}
+.font2{
+    color: rgba(21, 121, 236, 0.42);
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
+.col-4 ,.col{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card{
+    border-radius: 10%;
+    overflow: hidden;
+    background-color: rgb(54, 245, 245);
+}
+.card-text{
+    color: rgb(50, 9, 145);
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.card-title{
+    color: rgb(50, 9, 145);
+}
+.card .btn{
+    font-size: 25px;
+    color: blueviolet;
+}
+.card-id{
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 1000px;
+    margin-left: 300px;
+    border-radius: 1%;
+}
+.detail{
+    font-size: 25px;
+    color: rgb(4, 6, 125);
+}
